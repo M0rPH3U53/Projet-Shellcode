@@ -1,3 +1,3 @@
 # Projet-Shellcode
 
-Le projet consiste a infecter un Linux via un shellcode d'un fichier ELF
+Le projet consiste a infecter un binaire d'un Linux ,  pour obetnair une reverse shell ecrit en asm.
